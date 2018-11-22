@@ -1,8 +1,6 @@
-# Database elderly
-
-
-
 [TOC]
+
+# Database elderly
 
 ## Table structure for table content
 
